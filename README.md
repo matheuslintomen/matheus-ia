@@ -23,7 +23,7 @@ pip install streamlit openai
 ## Como usar
 
 ```bash
-streamlit run chat.py
+streamlit run chat-ia.py
 ```
 
 Certifique-se de que o servidor LLM local está rodando antes de iniciar.
